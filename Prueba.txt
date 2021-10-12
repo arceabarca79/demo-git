@@ -10,3 +10,12 @@ git commit -m "Primer intento"
 git branch -M main
 git remote add origin https://github.com/arceabarca79/demo-git.git
 git push -u origin main
+
+
+Otro
+
+git remote add origin https://github.com/arceabarca79/demo-git.git
+git remote
+git remote -v
+git branch -M main
+git push 
